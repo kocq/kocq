@@ -1,6 +1,6 @@
 {
   "name": "koa-oicq",
-  "version": "1.2.1",
+  "version": "2.1.1",
   "description": "模仿koa封装oicq(qqbot)的框架",
   "main": "index.js",
   "types": "index.d.ts",
@@ -22,6 +22,9 @@
     "index.js",
     "package.json",
     "README.md",
-    "test.js"
-  ]
+    "testV3.js"
+  ],
+  "devDependencies": {
+    "kocq-console": "^0.1.3"
+  }
 }
